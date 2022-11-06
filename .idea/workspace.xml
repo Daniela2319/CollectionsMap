@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec90ff3-4091-4b76-8aaf-b0cef3e3e88a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collectionMap/ExemplaMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collectionMap/model/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collectionMap/model/LivroMain.java" afterDir="false" />
+    <list default="true" id="7ec90ff3-4091-4b76-8aaf-b0cef3e3e88a" name="Changes" comment="collection Map">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collectionMap/model/ComparatorNome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collectionMap/model/LivroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionMap/model/LivroMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667602150049</updated>
     </task>
+    <task id="LOCAL-00001" summary="collection Map">
+      <created>1667693049996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667693049996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="collection Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection Map" />
   </component>
 </project>
