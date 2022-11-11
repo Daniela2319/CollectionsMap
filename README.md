@@ -47,9 +47,9 @@ Mas informações você encontra neste [link Oracle](https://docs.oracle.com/jav
 
 
 
-Estudante: Daniela Velter
+Estudante: Daniela Velter 🎓
 
-O que você deseja para sua vida crie habitos todos os dias para absorver mais e mais.
+O que você deseja para sua vida? crie habitos todos os dias para absorver mais e mais.
 
 
 
