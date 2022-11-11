@@ -28,7 +28,28 @@ V -> `get(Object key)`: Retorna o valor para o qual a chave especificada é mape
 
 int -> `hasCode()`: Retorna o valor hash para este mapa.
 
-continua...
+boolean -> `isEmpty()`: Retorna verdadeiro se este mapa não contiver mapeamento de valores-chave.
+
+Set<k> -> `keySet()`: Retorna uma Set visualização das chaves contidas neste mapa.
+
+V -> `put(K key,V value)`: Associa o valor especificado com a chave especificada neste mapa (operação opcional).
+
+void -> `putAll(Map<? extends k,? extend v> m)`: Copia todos os mapeamentos do mapa especificado para este mapa (operação opcional).
+
+V -> `remove(Object key)`: Remove o mapeamento de uma chave deste mapa se estiver presente (operação opcional).
+
+int -> `size()`: Retorna o número de mapeamento de valor-chave neste mapa.
+
+Collection<V> -> `values()`: Retorna uma Collection visualização dos valores contidos neste mapa.
+
+
+Mas informações você encontra neste [link Oracle](https://docs.oracle.com/javase/7/docs/api/java/util/Map.html)
+
+
+
+Estudante: Daniela Velter
+
+O que você deseja para sua vida crie habitos todos os dias para absorver mais e mais.
 
 
 
